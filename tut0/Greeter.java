@@ -38,4 +38,12 @@ public class Greeter {
         return name;
     }
 
+    public static void goodbye(){
+        /**
+         * Function for printing a greeting to the terminal 
+         */
+
+        System.out.println("Goodbye! ");
+    }
+
 }
